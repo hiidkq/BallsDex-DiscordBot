@@ -248,16 +248,16 @@ admin-command:
   #   - 1078701108500897923
 
   # list of guild IDs where /admin should be registered
-  guild-ids:
+  guild-ids: 1354524988387885207
 
   # list of role IDs having full access to /admin
-  root-role-ids:
+  root-role-ids: 1354526015090589820
 
   # list of role IDs having partial access to /admin
-  admin-role-ids:
+  admin-role-ids: 1354526015090589820
 
 # log channel for moderation actions
-log-channel:
+log-channel: 1354525575552827406
 
 # manage bot ownership
 owners:
